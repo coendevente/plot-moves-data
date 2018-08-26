@@ -18,15 +18,19 @@ Clone or download this repository.
 
 ### Heatmap
 ![Heatmap](example_imgs/heatmap.png)
+
 * Run moves_heatmap.py
 * Open my_map_heatmap.html in your browser (located in main application folder)
 
 ### Markers and routes
 With routes
+
 ![With routes](example_imgs/with_routes.png)
 
 Without routes
+
 ![No routes](example_imgs/no_routes.png)
+
 * Run moves.py
 * Open my_map.html and my_map_no_routes.html in your browser (located in main application folder)
 
