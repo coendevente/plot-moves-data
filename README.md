@@ -1,6 +1,6 @@
 # Plot Moves data
 
-Plot data from the \[Moves app](http://moves-app.com/) on a map.
+Plot data from the ![Moves app](http://moves-app.com/) on a map.
 
 ## Getting Started
 
